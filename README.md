@@ -1,0 +1,1 @@
+Este repositorio contiene los archivos del curso de Data Science de mi diplomado, a diferencia de los otros cursos, este consta de 3 partes, en la cual se utilizan herramientas diferentes en cada una. Abordando procesos de ETL hasta modelos de Machine Learning y redes neuronales.
